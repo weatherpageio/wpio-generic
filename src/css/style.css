@@ -1,0 +1,26 @@
+body.main {
+    background: #f8f9fa
+}
+
+div#current,
+div#map,
+div.day,
+div#chart {
+    background: #235392;
+    border-radius: 7px;
+    color: #fff;
+}
+
+div#current,
+div#map,
+div#chart, 
+div.day {
+    padding: 10px;
+}
+
+div.day {
+    font-size: 16px;
+    height: 100px;
+    padding: 5px;
+    text-align: center;
+}
